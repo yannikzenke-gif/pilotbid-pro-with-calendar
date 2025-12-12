@@ -1,0 +1,5 @@
+{
+  "name": "PilotBid Pro calender",
+  "description": "An intelligent flight bidding assistant for airline pilots. Upload monthly pairing CSVs, filter by personal preferences (dates, layovers, aircraft), and use AI to analyze schedules and find the perfect work-life balance.",
+  "requestFramePermissions": []
+}
